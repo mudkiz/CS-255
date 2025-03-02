@@ -1,1 +1,13 @@
 # CS-255
+
+    Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+    The driver pass project was an app for users to sign up and practice for driving exams. Allowing for students to schedule practice exams with instructors and even study the book offline.
+    What did you do particularly well?
+    I felt like I did a good job at summarizing wha the client wanted from me as far as the project went which is key in understanding how to solve the clients problems.
+    If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+    If I had to pick one part to fix it would likely be my powerpoint. I've always been not so great at making power points and making them good enough to catch attention is just not something within my realm of expertise.
+    How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+    With the system design we had to make sure that the app was run on the cloud so that the servers could be increased to the users needs and that it is able to be run on both phones and pcs on the macOS, Windows, Android, and iOS systems so tha the vast majority of users are able to use the app itself. We also had to stay within their budget and finish the app by May 10th. The app also needs to be able to be run offline so users with bad internet can still study.
+    It is important to consider the user's needs when you are designing an app as ultimately users will be your main audience for the app so if you do not keep them in mind when designing then your app will not succeed and you will not make money as they will jsut go to a different app that does fulfill their needs.
+    How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+    To analyze a system you can look at the models that are used to represent the system itself. The Functional, Structural, and behavioral models all tell in different ways how the system works and give a picture of how it will behave under different conditions. Such as when withdrawing money fro man atm. Person puts card into ATM, puts in their pin, the atm checks to see if its valid, they inpu the amount of money to withdraw, then the atm checks to see if they have enough, and if they do it outputs the money. To design a system you want to look at how you want it to behave and how you want it structured so making a model for this is important as you want to know how it will behave before you make it so you and ensure it will fulfill user needs.
